@@ -1,16 +1,8 @@
 # bonitest
 
-A new Flutter project.
+Assignment for Bohni Tech.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screen Shots
+![image](https://user-images.githubusercontent.com/89333270/202862204-f7b17ccb-c9ce-48c1-ad2e-0f03be68e030.png)
+![image](https://user-images.githubusercontent.com/89333270/202862215-a5e0c151-42d5-4b66-99f8-59e91679f89f.png)
+![image](https://user-images.githubusercontent.com/89333270/202862232-fe0bd080-7b76-4f53-93c8-c8e47a449568.png)
