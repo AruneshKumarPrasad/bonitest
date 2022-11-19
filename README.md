@@ -4,7 +4,7 @@ Assignment for Bohni Tech.
 
 ## Screen Shots
 
-<img src="https://camo.githubusercontent.com/..." data-canonical-src="[https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png](https://user-images.githubusercontent.com/89333270/202862204-f7b17ccb-c9ce-48c1-ad2e-0f03be68e030.png)" width="200" height="400" />
+<img src="https://user-images.githubusercontent.com/89333270/202862204-f7b17ccb-c9ce-48c1-ad2e-0f03be68e030.png" width="400">
 
 ![image](https://user-images.githubusercontent.com/89333270/202862204-f7b17ccb-c9ce-48c1-ad2e-0f03be68e030.png)
 
